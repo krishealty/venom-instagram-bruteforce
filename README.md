@@ -35,8 +35,6 @@ Now Open New Terminal/Session And Type Below command:-
 ```bash
 bash main.sh
 ```
-## Tutorial :-
- Coming Soon
 ### <p align="center">Deploy in Kali Linux
 ***
  ```bash
