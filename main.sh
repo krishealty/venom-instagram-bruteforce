@@ -1,4 +1,4 @@
-#Modifications and Distributions are allowed with proper credits, Don't be a dick.
+#Modifications and Distributions are allowed with proper credits.
 
 #colours
 #####3#3#
