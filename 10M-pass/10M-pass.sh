@@ -39,5 +39,5 @@ sleep 30.0
 cd /data/data/com.termux/files/home
 fi
 sleep 30.0
-cd /data/data/com.termux/files/home/xinsta_brute
+cd /data/data/com.termux/files/home/venom-instagram-bruteforce
 bash main.sh
