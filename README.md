@@ -22,7 +22,7 @@ pkg install git -y
 git clone https://github.com/krishealty/venom-instagram-bruteforce
 ```
 ```bash
-cd xinsta_brute
+cd venom-instagram-bruteforce
 ```
 ```bash
 bash setup
@@ -47,7 +47,7 @@ sudo apt-get install git -y
 git clone https://github.com/krishealty/venom-instagram-bruteforce
 ```
 ```bash
-cd xinsta_brute
+cd venom-instagram-bruteforce
 ```
 ```bash
 bash setup
