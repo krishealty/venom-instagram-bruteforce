@@ -11,17 +11,17 @@ sleep 1
 #if [[ -f "torrc" ]]
 #then
 
-pkg update -y
-pkg upgrade -y
+apt update -y
+apt upgrade -y
 apt-get update -y
 apt-get upgrade -y
 pip3 install requests --upgrade
-pkg install python -y
+apt install python -y
 apt install python
-pkg install python2 -y
-pkg install git -y
-pkg install wget -y
-pkg install lolcat -y
+apt install python2 -y
+apt install git -y
+apt install wget -y
+apt install lolcat -y
 pip install lolcat
 apt-get install lolcat -y
 pip install install --upgrade pip
@@ -29,17 +29,17 @@ pip3 install requests --upgrade
 pip3 install requests[socks]
 pip3 install stem
 pip3 install instagram-py
-pkg install tor -y
+apt install tor -y
 cd 
 wget -O ~/instapy-config.json "https://git.io/v5DGy"
 cd /data/data/com.termux/files/usr/etc/tor
 rm -rf torrc
-cd $HOME/xinsta_brute
+cd $HOME/venom-instagram-bruteforce
 cp -r torrc /data/data/com.termux/files/usr/etc/tor
 cd
 tor
 
 
 #else
-#cd /data/data/com.termux/files/home/xinsta_brute
+#cd /data/data/com.termux/files/home/venom-instagram-bruteforce
 #cp -r torrc /data/data/com.termux/files/usr/etc/tor
