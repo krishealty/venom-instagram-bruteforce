@@ -30,9 +30,9 @@ ____    ____  _______ .__   __.   ______   .___  ___.
 
 ' |lolcat
 printf "\n"
-printf "      \e[101m\e[1;77m  >>  Script By HACKER X PHANTOM(XPH4N70M) << \e[0m\n"
+printf "      \e[101m\e[1;77m  >> Prompt accepted and script is working. << \e[0m\n"
 printf "\n"
-printf "      \e[100m\e[1;77m >>  JOIN US NOW : \e[1;77m https://bit.ly/3PV3S3r \e[100m\e[1;77m << \e[0m\n"
+printf "      \e[100m\e[1;77m >>  Source Code: \e[1;77m https://github.com/krishealty/venom-instagram-bruteforce \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 echo 
 
@@ -43,7 +43,7 @@ read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m' optio
 
 
 if [[ $option == 1 || $option == 01 ]]; then
-cd /data/data/com.termux/files/home/ venom-instagram-bruteforce/10M-pass
+cd /data/data/com.termux/files/home/venom-instagram-bruteforce/10M-pass
 bash 10M-pass.sh
 elif [[ $option == 2 || $option == 02 ]]; then
 cd /data/data/com.termux/files/home/venom-instagram-bruteforce/custom-pass
