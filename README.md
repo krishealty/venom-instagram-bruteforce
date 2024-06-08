@@ -53,11 +53,9 @@ cd venom-instagram-bruteforce
 bash setup
 ```
 
-Type Above Command bash setup Wait For Some minute 
-
-Warn:- don't exit old terminal/session
-
-Now Open New Terminal/Session And Type Below command:-
+ 
+Don't exit old terminal/session
+Open New Terminal/Session And execute the script:-
 
 ```bash
 bash main.sh
