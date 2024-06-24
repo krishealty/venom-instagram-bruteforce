@@ -32,7 +32,7 @@ then
 echo -e  "$ylo >>> exiting... <<<$rset"        
 else
 
-  instagram-py --username $usrnm --password-list $inspass
+  instagram -py --username $usrnm --password-list $inspass
 
 echo
 sleep 30.0
